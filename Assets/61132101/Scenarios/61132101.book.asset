@@ -37,8 +37,8 @@ MonoBehaviour:
       debugIndex: 1
       strings:
       - 
-      - 
-      - 
+      - "\u6E58\u7434 (A)"
+      - "\u559C"
       - 
       - 
       - 
@@ -52,8 +52,8 @@ MonoBehaviour:
       debugIndex: 2
       strings:
       - 
-      - 
-      - 
+      - "\u76F4\u6A39 (B)"
+      - "\u54C0"
       - 
       - 
       - 
@@ -67,8 +67,8 @@ MonoBehaviour:
       debugIndex: 3
       strings:
       - 
-      - 
-      - 
+      - "\u6E58\u7434 (A)"
+      - "\u6012"
       - 
       - 
       - 
@@ -82,8 +82,8 @@ MonoBehaviour:
       debugIndex: 4
       strings:
       - 
-      - 
-      - 
+      - "\u76F4\u6A39 (B)"
+      - "\u6A02"
       - 
       - 
       - 
@@ -97,8 +97,8 @@ MonoBehaviour:
       debugIndex: 5
       strings:
       - 
-      - 
-      - 
+      - "\u6E58\u7434 (A)"
+      - "\u559C"
       - 
       - 
       - 
@@ -112,8 +112,8 @@ MonoBehaviour:
       debugIndex: 6
       strings:
       - 
-      - 
-      - 
+      - "\u76F4\u6A39 (B)"
+      - "\u54C0"
       - 
       - 
       - 
@@ -127,8 +127,8 @@ MonoBehaviour:
       debugIndex: 7
       strings:
       - 
-      - 
-      - 
+      - "\u6E58\u7434 (A)"
+      - "\u6012"
       - 
       - 
       - 
@@ -142,8 +142,8 @@ MonoBehaviour:
       debugIndex: 8
       strings:
       - 
-      - 
-      - 
+      - "\u76F4\u6A39 (B)"
+      - "\u6A02"
       - 
       - 
       - 
@@ -157,8 +157,8 @@ MonoBehaviour:
       debugIndex: 9
       strings:
       - 
-      - 
-      - 
+      - "\u6E58\u7434 (A)"
+      - "\u54C0"
       - 
       - 
       - 
@@ -172,8 +172,8 @@ MonoBehaviour:
       debugIndex: 10
       strings:
       - 
-      - 
-      - 
+      - "\u76F4\u6A39 (B)"
+      - "\u559C"
       - 
       - 
       - 
@@ -187,8 +187,8 @@ MonoBehaviour:
       debugIndex: 11
       strings:
       - 
-      - 
-      - 
+      - "\u6E58\u7434 (A)"
+      - "\u6A02"
       - 
       - 
       - 
@@ -202,8 +202,8 @@ MonoBehaviour:
       debugIndex: 12
       strings:
       - 
-      - 
-      - 
+      - "\u76F4\u6A39 (B)"
+      - "\u54C0"
       - 
       - 
       - 
@@ -217,8 +217,8 @@ MonoBehaviour:
       debugIndex: 13
       strings:
       - 
-      - 
-      - 
+      - "\u6E58\u7434 (A)"
+      - "\u6012"
       - 
       - 
       - 
@@ -232,8 +232,8 @@ MonoBehaviour:
       debugIndex: 14
       strings:
       - 
-      - 
-      - 
+      - "\u76F4\u6A39 (B)"
+      - "\u6A02"
       - 
       - 
       - 
@@ -247,8 +247,8 @@ MonoBehaviour:
       debugIndex: 15
       strings:
       - 
-      - 
-      - 
+      - "\u6E58\u7434 (A)"
+      - "\u6012"
       - 
       - 
       - 
@@ -262,8 +262,8 @@ MonoBehaviour:
       debugIndex: 16
       strings:
       - 
-      - 
-      - 
+      - "\u76F4\u6A39 (B)"
+      - "\u6A02"
       - 
       - 
       - 
@@ -277,8 +277,8 @@ MonoBehaviour:
       debugIndex: 17
       strings:
       - 
-      - 
-      - 
+      - "\u6E58\u7434 (A)"
+      - "\u559C"
       - 
       - 
       - 
@@ -293,8 +293,8 @@ MonoBehaviour:
       debugIndex: 18
       strings:
       - 
-      - 
-      - 
+      - "\u76F4\u6A39 (B)"
+      - "\u54C0"
       - 
       - 
       - 
@@ -308,8 +308,8 @@ MonoBehaviour:
       debugIndex: 19
       strings:
       - 
-      - 
-      - 
+      - "\u6E58\u7434 (A)"
+      - "\u6012"
       - 
       - 
       - 
@@ -323,8 +323,8 @@ MonoBehaviour:
       debugIndex: 20
       strings:
       - 
-      - 
-      - 
+      - "\u76F4\u6A39 (B)"
+      - "\u54C0"
       - 
       - 
       - 
@@ -338,8 +338,8 @@ MonoBehaviour:
       debugIndex: 21
       strings:
       - 
-      - 
-      - 
+      - "\u6E58\u7434 (A)"
+      - "\u559C"
       - 
       - 
       - 
@@ -353,8 +353,8 @@ MonoBehaviour:
       debugIndex: 22
       strings:
       - 
-      - 
-      - 
+      - "\u76F4\u6A39 (B)"
+      - "\u54C0"
       - 
       - 
       - 
@@ -368,8 +368,8 @@ MonoBehaviour:
       debugIndex: 23
       strings:
       - 
-      - 
-      - 
+      - "\u6E58\u7434 (A)"
+      - "\u6A02"
       - 
       - 
       - 
@@ -383,8 +383,8 @@ MonoBehaviour:
       debugIndex: 24
       strings:
       - 
-      - 
-      - 
+      - "\u76F4\u6A39 (B)"
+      - "\u6012"
       - 
       - 
       - 
@@ -398,8 +398,8 @@ MonoBehaviour:
       debugIndex: 25
       strings:
       - 
-      - 
-      - 
+      - "\u6E58\u7434 (A)"
+      - "\u6012"
       - 
       - 
       - 
@@ -413,8 +413,8 @@ MonoBehaviour:
       debugIndex: 26
       strings:
       - 
-      - 
-      - 
+      - "\u76F4\u6A39 (B)"
+      - "\u54C0"
       - 
       - 
       - 
@@ -428,8 +428,8 @@ MonoBehaviour:
       debugIndex: 27
       strings:
       - 
-      - 
-      - 
+      - "\u6E58\u7434 (A)"
+      - "\u559C"
       - 
       - 
       - 
@@ -443,8 +443,8 @@ MonoBehaviour:
       debugIndex: 28
       strings:
       - 
-      - 
-      - 
+      - "\u76F4\u6A39 (B)"
+      - "\u54C0"
       - 
       - 
       - 
@@ -458,8 +458,8 @@ MonoBehaviour:
       debugIndex: 29
       strings:
       - 
-      - 
-      - 
+      - "\u6E58\u7434 (A)"
+      - "\u6A02"
       - 
       - 
       - 
@@ -473,8 +473,8 @@ MonoBehaviour:
       debugIndex: 30
       strings:
       - 
-      - 
-      - 
+      - "\u76F4\u6A39 (B)"
+      - "\u54C0"
       - 
       - 
       - 
@@ -488,8 +488,8 @@ MonoBehaviour:
       debugIndex: 31
       strings:
       - 
-      - 
-      - 
+      - "\u6E58\u7434 (A)"
+      - "\u559C"
       - 
       - 
       - 
@@ -503,8 +503,8 @@ MonoBehaviour:
       debugIndex: 32
       strings:
       - 
-      - 
-      - 
+      - "\u76F4\u6A39 (B)"
+      - "\u6012"
       - 
       - 
       - 
@@ -518,8 +518,8 @@ MonoBehaviour:
       debugIndex: 33
       strings:
       - 
-      - 
-      - 
+      - "\u6E58\u7434 (A)"
+      - "\u6A02"
       - 
       - 
       - 
@@ -533,8 +533,8 @@ MonoBehaviour:
       debugIndex: 34
       strings:
       - 
-      - 
-      - 
+      - "\u76F4\u6A39 (B)"
+      - "\u6012"
       - 
       - 
       - 
@@ -548,8 +548,8 @@ MonoBehaviour:
       debugIndex: 35
       strings:
       - 
-      - 
-      - 
+      - "\u6E58\u7434 (A)"
+      - "\u54C0"
       - 
       - 
       - 
@@ -563,8 +563,8 @@ MonoBehaviour:
       debugIndex: 36
       strings:
       - 
-      - 
-      - 
+      - "\u76F4\u6A39 (B)"
+      - "\u6A02"
       - 
       - 
       - 
@@ -578,8 +578,8 @@ MonoBehaviour:
       debugIndex: 37
       strings:
       - 
-      - 
-      - 
+      - "\u6E58\u7434 (A)"
+      - "\u54C0"
       - 
       - 
       - 
@@ -593,8 +593,8 @@ MonoBehaviour:
       debugIndex: 38
       strings:
       - 
-      - 
-      - 
+      - "\u76F4\u6A39 (B)"
+      - "\u559C"
       - 
       - 
       - 
@@ -608,8 +608,8 @@ MonoBehaviour:
       debugIndex: 39
       strings:
       - 
-      - 
-      - 
+      - "\u6E58\u7434 (A)"
+      - "\u6A02"
       - 
       - 
       - 
@@ -623,8 +623,8 @@ MonoBehaviour:
       debugIndex: 40
       strings:
       - 
-      - 
-      - 
+      - "\u76F4\u6A39 (B)"
+      - "\u54C0"
       - 
       - 
       - 
@@ -638,8 +638,8 @@ MonoBehaviour:
       debugIndex: 41
       strings:
       - 
-      - 
-      - 
+      - "\u6E58\u7434 (A)"
+      - "\u6012"
       - 
       - 
       - 
@@ -653,8 +653,8 @@ MonoBehaviour:
       debugIndex: 42
       strings:
       - 
-      - 
-      - 
+      - "\u76F4\u6A39 (B)"
+      - "\u559C"
       - 
       - 
       - 
@@ -668,8 +668,8 @@ MonoBehaviour:
       debugIndex: 43
       strings:
       - 
-      - 
-      - 
+      - "\u6E58\u7434 (A)"
+      - "\u6A02"
       - 
       - 
       - 
@@ -683,8 +683,8 @@ MonoBehaviour:
       debugIndex: 44
       strings:
       - 
-      - 
-      - 
+      - "\u76F4\u6A39 (B)"
+      - "\u559C"
       - 
       - 
       - 
@@ -698,8 +698,8 @@ MonoBehaviour:
       debugIndex: 45
       strings:
       - 
-      - 
-      - 
+      - "\u6E58\u7434 (A)"
+      - "\u559C"
       - 
       - 
       - 
@@ -713,8 +713,8 @@ MonoBehaviour:
       debugIndex: 46
       strings:
       - 
-      - 
-      - 
+      - "\u76F4\u6A39 (B)"
+      - "\u54C0"
       - 
       - 
       - 
@@ -728,8 +728,8 @@ MonoBehaviour:
       debugIndex: 47
       strings:
       - 
-      - 
-      - 
+      - "\u6E58\u7434 (A)"
+      - "\u6A02"
       - 
       - 
       - 
@@ -743,8 +743,8 @@ MonoBehaviour:
       debugIndex: 48
       strings:
       - 
-      - 
-      - 
+      - "\u76F4\u6A39 (B)"
+      - "\u54C0"
       - 
       - 
       - 
@@ -758,8 +758,8 @@ MonoBehaviour:
       debugIndex: 49
       strings:
       - 
-      - 
-      - 
+      - "\u6E58\u7434 (A)"
+      - "\u6012"
       - 
       - 
       - 
@@ -773,8 +773,8 @@ MonoBehaviour:
       debugIndex: 50
       strings:
       - 
-      - 
-      - 
+      - "\u76F4\u6A39 (B)"
+      - "\u559C"
       - 
       - 
       - 
@@ -788,8 +788,8 @@ MonoBehaviour:
       debugIndex: 51
       strings:
       - 
-      - 
-      - 
+      - "\u6E58\u7434 (A)"
+      - "\u6A02"
       - 
       - 
       - 
@@ -803,8 +803,8 @@ MonoBehaviour:
       debugIndex: 52
       strings:
       - 
-      - 
-      - 
+      - "\u76F4\u6A39 (B)"
+      - "\u54C0"
       - 
       - 
       - 
@@ -818,8 +818,8 @@ MonoBehaviour:
       debugIndex: 53
       strings:
       - 
-      - 
-      - 
+      - "\u6E58\u7434 (A)"
+      - "\u559C"
       - 
       - 
       - 
@@ -833,8 +833,8 @@ MonoBehaviour:
       debugIndex: 54
       strings:
       - 
-      - 
-      - 
+      - "\u76F4\u6A39 (B)"
+      - "\u6012"
       - 
       - 
       - 
@@ -848,8 +848,8 @@ MonoBehaviour:
       debugIndex: 55
       strings:
       - 
-      - 
-      - 
+      - "\u6E58\u7434 (A)"
+      - "\u54C0"
       - 
       - 
       - 
@@ -863,8 +863,8 @@ MonoBehaviour:
       debugIndex: 56
       strings:
       - 
-      - 
-      - 
+      - "\u76F4\u6A39 (B)"
+      - "\u559C"
       - 
       - 
       - 
@@ -878,8 +878,8 @@ MonoBehaviour:
       debugIndex: 57
       strings:
       - 
-      - 
-      - 
+      - "\u6E58\u7434 (A)"
+      - "\u6A02"
       - 
       - 
       - 
@@ -893,8 +893,8 @@ MonoBehaviour:
       debugIndex: 58
       strings:
       - 
-      - 
-      - 
+      - "\u76F4\u6A39 (B)"
+      - "\u6012"
       - 
       - 
       - 
@@ -908,8 +908,8 @@ MonoBehaviour:
       debugIndex: 59
       strings:
       - 
-      - 
-      - 
+      - "\u6E58\u7434 (A)"
+      - "\u6012"
       - 
       - 
       - 
@@ -923,8 +923,8 @@ MonoBehaviour:
       debugIndex: 60
       strings:
       - 
-      - 
-      - 
+      - "\u76F4\u6A39 (B)"
+      - "\u6A02"
       - 
       - 
       - 
@@ -938,8 +938,8 @@ MonoBehaviour:
       debugIndex: 61
       strings:
       - 
-      - 
-      - 
+      - "\u6E58\u7434 (A)"
+      - "\u6012"
       - 
       - 
       - 
@@ -953,8 +953,8 @@ MonoBehaviour:
       debugIndex: 62
       strings:
       - 
-      - 
-      - 
+      - "\u76F4\u6A39 (B)"
+      - "\u559C"
       - 
       - 
       - 
@@ -968,8 +968,8 @@ MonoBehaviour:
       debugIndex: 63
       strings:
       - 
-      - 
-      - 
+      - "\u6E58\u7434 (A)"
+      - "\u6A02"
       - 
       - 
       - 
@@ -983,8 +983,8 @@ MonoBehaviour:
       debugIndex: 64
       strings:
       - 
-      - 
-      - 
+      - "\u76F4\u6A39 (B)"
+      - "\u54C0"
       - 
       - 
       - 
@@ -998,8 +998,8 @@ MonoBehaviour:
       debugIndex: 65
       strings:
       - 
-      - 
-      - 
+      - "\u6E58\u7434 (A)"
+      - "\u6012"
       - 
       - 
       - 
@@ -1013,8 +1013,8 @@ MonoBehaviour:
       debugIndex: 66
       strings:
       - 
-      - 
-      - 
+      - "\u6E58\u7434 (A)"
+      - "\u54C0"
       - 
       - 
       - 
@@ -1028,8 +1028,8 @@ MonoBehaviour:
       debugIndex: 67
       strings:
       - 
-      - 
-      - 
+      - "\u76F4\u6A39 (B)"
+      - "\u6012"
       - 
       - 
       - 
@@ -1043,8 +1043,8 @@ MonoBehaviour:
       debugIndex: 68
       strings:
       - 
-      - 
-      - 
+      - "\u6E58\u7434 (A)"
+      - "\u54C0"
       - 
       - 
       - 
@@ -1058,8 +1058,8 @@ MonoBehaviour:
       debugIndex: 69
       strings:
       - 
-      - 
-      - 
+      - "\u76F4\u6A39 (B)"
+      - "\u559C"
       - 
       - 
       - 
@@ -1073,8 +1073,8 @@ MonoBehaviour:
       debugIndex: 70
       strings:
       - 
-      - 
-      - 
+      - "\u6E58\u7434 (A)"
+      - "\u6A02"
       - 
       - 
       - 
@@ -1088,8 +1088,8 @@ MonoBehaviour:
       debugIndex: 71
       strings:
       - 
-      - 
-      - 
+      - "\u76F4\u6A39 (B)"
+      - "\u54C0"
       - 
       - 
       - 
@@ -1103,8 +1103,8 @@ MonoBehaviour:
       debugIndex: 72
       strings:
       - 
-      - 
-      - 
+      - "\u6E58\u7434 (A)"
+      - "\u559C"
       - 
       - 
       - 
@@ -1118,8 +1118,8 @@ MonoBehaviour:
       debugIndex: 73
       strings:
       - 
-      - 
-      - 
+      - "\u6E58\u7434 (A)"
+      - "\u54C0"
       - 
       - 
       - 
@@ -1133,8 +1133,8 @@ MonoBehaviour:
       debugIndex: 74
       strings:
       - 
-      - 
-      - 
+      - "\u76F4\u6A39 (B)"
+      - "\u559C"
       - 
       - 
       - 
@@ -1148,8 +1148,8 @@ MonoBehaviour:
       debugIndex: 75
       strings:
       - 
-      - 
-      - 
+      - "\u6E58\u7434 (A)"
+      - "\u6A02"
       - 
       - 
       - 
@@ -1163,8 +1163,8 @@ MonoBehaviour:
       debugIndex: 76
       strings:
       - 
-      - 
-      - 
+      - "\u76F4\u6A39 (B)"
+      - "\u6012"
       - 
       - 
       - 
@@ -1178,8 +1178,8 @@ MonoBehaviour:
       debugIndex: 77
       strings:
       - 
-      - 
-      - 
+      - "\u6E58\u7434 (A)"
+      - "\u54C0"
       - 
       - 
       - 
@@ -1193,8 +1193,8 @@ MonoBehaviour:
       debugIndex: 78
       strings:
       - 
-      - 
-      - 
+      - "\u76F4\u6A39 (B)"
+      - "\u559C"
       - 
       - 
       - 
@@ -1208,8 +1208,8 @@ MonoBehaviour:
       debugIndex: 79
       strings:
       - 
-      - 
-      - 
+      - "\u6E58\u7434 (A)"
+      - "\u6A02"
       - 
       - 
       - 
@@ -1223,8 +1223,8 @@ MonoBehaviour:
       debugIndex: 80
       strings:
       - 
-      - 
-      - 
+      - "\u76F4\u6A39 (B)"
+      - "\u6012"
       - 
       - 
       - 
@@ -1238,8 +1238,8 @@ MonoBehaviour:
       debugIndex: 81
       strings:
       - 
-      - 
-      - 
+      - "\u6E58\u7434 (A)"
+      - "\u6A02"
       - 
       - 
       - 
@@ -1253,8 +1253,8 @@ MonoBehaviour:
       debugIndex: 82
       strings:
       - 
-      - 
-      - 
+      - "\u76F4\u6A39 (B)"
+      - "\u54C0"
       - 
       - 
       - 
@@ -1268,8 +1268,8 @@ MonoBehaviour:
       debugIndex: 83
       strings:
       - 
-      - 
-      - 
+      - "\u6E58\u7434 (A)"
+      - "\u559C"
       - 
       - 
       - 
@@ -1283,8 +1283,8 @@ MonoBehaviour:
       debugIndex: 84
       strings:
       - 
-      - 
-      - 
+      - "\u76F4\u6A39 (B)"
+      - "\u6A02"
       - 
       - 
       - 
@@ -1298,8 +1298,8 @@ MonoBehaviour:
       debugIndex: 85
       strings:
       - 
-      - 
-      - 
+      - "\u6E58\u7434 (A)"
+      - "\u6012"
       - 
       - 
       - 
@@ -1313,8 +1313,8 @@ MonoBehaviour:
       debugIndex: 86
       strings:
       - 
-      - 
-      - 
+      - "\u76F4\u6A39 (B)"
+      - "\u559C"
       - 
       - 
       - 
@@ -1328,8 +1328,8 @@ MonoBehaviour:
       debugIndex: 87
       strings:
       - 
-      - 
-      - 
+      - "\u6E58\u7434 (A)"
+      - "\u6012"
       - 
       - 
       - 
@@ -1343,8 +1343,8 @@ MonoBehaviour:
       debugIndex: 88
       strings:
       - 
-      - 
-      - 
+      - "\u76F4\u6A39 (B)"
+      - "\u6A02"
       - 
       - 
       - 
@@ -1358,8 +1358,8 @@ MonoBehaviour:
       debugIndex: 89
       strings:
       - 
-      - 
-      - 
+      - "\u6E58\u7434 (A)"
+      - "\u559C"
       - 
       - 
       - 
@@ -1373,8 +1373,8 @@ MonoBehaviour:
       debugIndex: 90
       strings:
       - 
-      - 
-      - 
+      - "\u76F4\u6A39 (B)"
+      - "\u6012"
       - 
       - 
       - 
@@ -1388,8 +1388,8 @@ MonoBehaviour:
       debugIndex: 91
       strings:
       - 
-      - 
-      - 
+      - "\u6E58\u7434 (A)"
+      - "\u6A02"
       - 
       - 
       - 
@@ -1403,8 +1403,8 @@ MonoBehaviour:
       debugIndex: 92
       strings:
       - 
-      - 
-      - 
+      - "\u76F4\u6A39 (B)"
+      - "\u54C0"
       - 
       - 
       - 
@@ -1418,8 +1418,8 @@ MonoBehaviour:
       debugIndex: 93
       strings:
       - 
-      - 
-      - 
+      - "\u6E58\u7434 (A)"
+      - "\u6012"
       - 
       - 
       - 
@@ -1433,8 +1433,8 @@ MonoBehaviour:
       debugIndex: 94
       strings:
       - 
-      - 
-      - 
+      - "\u76F4\u6A39 (B)"
+      - "\u54C0"
       - 
       - 
       - 
@@ -1448,8 +1448,8 @@ MonoBehaviour:
       debugIndex: 95
       strings:
       - 
-      - 
-      - 
+      - "\u6E58\u7434 (A)"
+      - "\u6012"
       - 
       - 
       - 
@@ -1463,8 +1463,8 @@ MonoBehaviour:
       debugIndex: 96
       strings:
       - 
-      - 
-      - 
+      - "\u76F4\u6A39 (B)"
+      - "\u6A02"
       - 
       - 
       - 
@@ -1478,8 +1478,8 @@ MonoBehaviour:
       debugIndex: 97
       strings:
       - 
-      - 
-      - 
+      - "\u6E58\u7434 (A)"
+      - "\u559C"
       - 
       - 
       - 
@@ -1493,8 +1493,8 @@ MonoBehaviour:
       debugIndex: 98
       strings:
       - 
-      - 
-      - 
+      - "\u76F4\u6A39 (B)"
+      - "\u559C"
       - 
       - 
       - 
@@ -1508,8 +1508,8 @@ MonoBehaviour:
       debugIndex: 99
       strings:
       - 
-      - 
-      - 
+      - "\u6E58\u7434 (A)"
+      - "\u6A02"
       - 
       - 
       - 
@@ -1523,8 +1523,8 @@ MonoBehaviour:
       debugIndex: 100
       strings:
       - 
-      - 
-      - 
+      - "\u76F4\u6A39 (B)"
+      - "\u559C"
       - 
       - 
       - 
@@ -1543,7 +1543,7 @@ MonoBehaviour:
       debugInfo: 
     name: Assets/61132101/Scenarios/61132101.xls:Start
     type: 1
-    textLength: 1491
+    textLength: 2191
     headerRow: 0
     sourceAssetInEditor: {fileID: 102900000, guid: 8caee4600b3dec5468c444cc5f202e50, type: 3}
     entityIndexTbl: 
@@ -1577,9 +1577,169 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
+    - rowIndex: 1
+      debugIndex: 1
+      strings:
+      - "\u6E58\u7434 (A)"
+      - 
+      - "\u4E00\u822C"
+      - 
+      - 
+      - 
+      - 
+      - .7
+      - 
+      - F002.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 2
+      debugIndex: 2
+      strings:
+      - 
+      - 
+      - "\u559C"
+      - 
+      - 
+      - 
+      - 
+      - .7
+      - 
+      - F003.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 3
+      debugIndex: 3
+      strings:
+      - 
+      - 
+      - "\u6012"
+      - 
+      - 
+      - 
+      - 
+      - .7
+      - 
+      - F004.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 4
+      debugIndex: 4
+      strings:
+      - 
+      - 
+      - "\u54C0"
+      - 
+      - 
+      - 
+      - 
+      - .7
+      - 
+      - F005.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 5
+      debugIndex: 5
+      strings:
+      - 
+      - 
+      - "\u6A02"
+      - 
+      - 
+      - 
+      - 
+      - .7
+      - 
+      - F006.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 6
+      debugIndex: 6
+      strings:
+      - "\u76F4\u6A39 (B)"
+      - 
+      - "\u4E00\u822C"
+      - 
+      - 
+      - 
+      - 
+      - .7
+      - 
+      - M002.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 7
+      debugIndex: 7
+      strings:
+      - 
+      - 
+      - "\u559C"
+      - 
+      - 
+      - 
+      - 
+      - .7
+      - 
+      - M003.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 8
+      debugIndex: 8
+      strings:
+      - 
+      - 
+      - "\u6012"
+      - 
+      - 
+      - 
+      - 
+      - .7
+      - 
+      - M004.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 9
+      debugIndex: 9
+      strings:
+      - 
+      - 
+      - "\u54C0"
+      - 
+      - 
+      - 
+      - 
+      - .7
+      - 
+      - M005.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 10
+      debugIndex: 10
+      strings:
+      - 
+      - 
+      - "\u6A02"
+      - 
+      - 
+      - 
+      - 
+      - .7
+      - 
+      - M006.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
     name: Assets/61132101/Scenarios/61132101.xls:Character
     type: 1
-    textLength: 166
+    textLength: 290
     headerRow: 0
     sourceAssetInEditor: {fileID: 102900000, guid: 8caee4600b3dec5468c444cc5f202e50, type: 3}
   - rows:
@@ -1950,8 +2110,8 @@ MonoBehaviour:
       debugIndex: 1
       strings:
       - 
-      - 
-      - 
+      - "\u6E58\u7434 (A)"
+      - "\u559C"
       - 
       - 
       - 
@@ -1965,8 +2125,8 @@ MonoBehaviour:
       debugIndex: 2
       strings:
       - 
-      - 
-      - 
+      - "\u76F4\u6A39 (B)"
+      - "\u54C0"
       - 
       - 
       - 
@@ -1980,8 +2140,8 @@ MonoBehaviour:
       debugIndex: 3
       strings:
       - 
-      - 
-      - 
+      - "\u6E58\u7434 (A)"
+      - "\u6012"
       - 
       - 
       - 
@@ -1995,8 +2155,8 @@ MonoBehaviour:
       debugIndex: 4
       strings:
       - 
-      - 
-      - 
+      - "\u76F4\u6A39 (B)"
+      - "\u6A02"
       - 
       - 
       - 
@@ -2010,8 +2170,8 @@ MonoBehaviour:
       debugIndex: 5
       strings:
       - 
-      - 
-      - 
+      - "\u6E58\u7434 (A)"
+      - "\u559C"
       - 
       - 
       - 
@@ -2025,8 +2185,8 @@ MonoBehaviour:
       debugIndex: 6
       strings:
       - 
-      - 
-      - 
+      - "\u76F4\u6A39 (B)"
+      - "\u54C0"
       - 
       - 
       - 
@@ -2040,8 +2200,8 @@ MonoBehaviour:
       debugIndex: 7
       strings:
       - 
-      - 
-      - 
+      - "\u6E58\u7434 (A)"
+      - "\u6012"
       - 
       - 
       - 
@@ -2055,8 +2215,8 @@ MonoBehaviour:
       debugIndex: 8
       strings:
       - 
-      - 
-      - 
+      - "\u76F4\u6A39 (B)"
+      - "\u6A02"
       - 
       - 
       - 
@@ -2070,8 +2230,8 @@ MonoBehaviour:
       debugIndex: 9
       strings:
       - 
-      - 
-      - 
+      - "\u6E58\u7434 (A)"
+      - "\u54C0"
       - 
       - 
       - 
@@ -2085,8 +2245,8 @@ MonoBehaviour:
       debugIndex: 10
       strings:
       - 
-      - 
-      - 
+      - "\u76F4\u6A39 (B)"
+      - "\u559C"
       - 
       - 
       - 
@@ -2100,8 +2260,8 @@ MonoBehaviour:
       debugIndex: 11
       strings:
       - 
-      - 
-      - 
+      - "\u6E58\u7434 (A)"
+      - "\u6A02"
       - 
       - 
       - 
@@ -2115,8 +2275,8 @@ MonoBehaviour:
       debugIndex: 12
       strings:
       - 
-      - 
-      - 
+      - "\u76F4\u6A39 (B)"
+      - "\u54C0"
       - 
       - 
       - 
@@ -2130,8 +2290,8 @@ MonoBehaviour:
       debugIndex: 13
       strings:
       - 
-      - 
-      - 
+      - "\u6E58\u7434 (A)"
+      - "\u6012"
       - 
       - 
       - 
@@ -2145,8 +2305,8 @@ MonoBehaviour:
       debugIndex: 14
       strings:
       - 
-      - 
-      - 
+      - "\u76F4\u6A39 (B)"
+      - "\u6A02"
       - 
       - 
       - 
@@ -2160,8 +2320,8 @@ MonoBehaviour:
       debugIndex: 15
       strings:
       - 
-      - 
-      - 
+      - "\u6E58\u7434 (A)"
+      - "\u6012"
       - 
       - 
       - 
@@ -2175,8 +2335,8 @@ MonoBehaviour:
       debugIndex: 16
       strings:
       - 
-      - 
-      - 
+      - "\u76F4\u6A39 (B)"
+      - "\u6A02"
       - 
       - 
       - 
@@ -2190,8 +2350,8 @@ MonoBehaviour:
       debugIndex: 17
       strings:
       - 
-      - 
-      - 
+      - "\u6E58\u7434 (A)"
+      - "\u559C"
       - 
       - 
       - 
@@ -2206,8 +2366,8 @@ MonoBehaviour:
       debugIndex: 18
       strings:
       - 
-      - 
-      - 
+      - "\u76F4\u6A39 (B)"
+      - "\u54C0"
       - 
       - 
       - 
@@ -2221,8 +2381,8 @@ MonoBehaviour:
       debugIndex: 19
       strings:
       - 
-      - 
-      - 
+      - "\u6E58\u7434 (A)"
+      - "\u6012"
       - 
       - 
       - 
@@ -2236,8 +2396,8 @@ MonoBehaviour:
       debugIndex: 20
       strings:
       - 
-      - 
-      - 
+      - "\u76F4\u6A39 (B)"
+      - "\u54C0"
       - 
       - 
       - 
@@ -2251,8 +2411,8 @@ MonoBehaviour:
       debugIndex: 21
       strings:
       - 
-      - 
-      - 
+      - "\u6E58\u7434 (A)"
+      - "\u559C"
       - 
       - 
       - 
@@ -2266,8 +2426,8 @@ MonoBehaviour:
       debugIndex: 22
       strings:
       - 
-      - 
-      - 
+      - "\u76F4\u6A39 (B)"
+      - "\u54C0"
       - 
       - 
       - 
@@ -2281,8 +2441,8 @@ MonoBehaviour:
       debugIndex: 23
       strings:
       - 
-      - 
-      - 
+      - "\u6E58\u7434 (A)"
+      - "\u6A02"
       - 
       - 
       - 
@@ -2296,8 +2456,8 @@ MonoBehaviour:
       debugIndex: 24
       strings:
       - 
-      - 
-      - 
+      - "\u76F4\u6A39 (B)"
+      - "\u6012"
       - 
       - 
       - 
@@ -2311,8 +2471,8 @@ MonoBehaviour:
       debugIndex: 25
       strings:
       - 
-      - 
-      - 
+      - "\u6E58\u7434 (A)"
+      - "\u6012"
       - 
       - 
       - 
@@ -2326,8 +2486,8 @@ MonoBehaviour:
       debugIndex: 26
       strings:
       - 
-      - 
-      - 
+      - "\u76F4\u6A39 (B)"
+      - "\u54C0"
       - 
       - 
       - 
@@ -2341,8 +2501,8 @@ MonoBehaviour:
       debugIndex: 27
       strings:
       - 
-      - 
-      - 
+      - "\u6E58\u7434 (A)"
+      - "\u559C"
       - 
       - 
       - 
@@ -2356,8 +2516,8 @@ MonoBehaviour:
       debugIndex: 28
       strings:
       - 
-      - 
-      - 
+      - "\u76F4\u6A39 (B)"
+      - "\u54C0"
       - 
       - 
       - 
@@ -2371,8 +2531,8 @@ MonoBehaviour:
       debugIndex: 29
       strings:
       - 
-      - 
-      - 
+      - "\u6E58\u7434 (A)"
+      - "\u6A02"
       - 
       - 
       - 
@@ -2386,8 +2546,8 @@ MonoBehaviour:
       debugIndex: 30
       strings:
       - 
-      - 
-      - 
+      - "\u76F4\u6A39 (B)"
+      - "\u54C0"
       - 
       - 
       - 
@@ -2401,8 +2561,8 @@ MonoBehaviour:
       debugIndex: 31
       strings:
       - 
-      - 
-      - 
+      - "\u6E58\u7434 (A)"
+      - "\u559C"
       - 
       - 
       - 
@@ -2416,8 +2576,8 @@ MonoBehaviour:
       debugIndex: 32
       strings:
       - 
-      - 
-      - 
+      - "\u76F4\u6A39 (B)"
+      - "\u6012"
       - 
       - 
       - 
@@ -2431,8 +2591,8 @@ MonoBehaviour:
       debugIndex: 33
       strings:
       - 
-      - 
-      - 
+      - "\u6E58\u7434 (A)"
+      - "\u6A02"
       - 
       - 
       - 
@@ -2446,8 +2606,8 @@ MonoBehaviour:
       debugIndex: 34
       strings:
       - 
-      - 
-      - 
+      - "\u76F4\u6A39 (B)"
+      - "\u6012"
       - 
       - 
       - 
@@ -2461,8 +2621,8 @@ MonoBehaviour:
       debugIndex: 35
       strings:
       - 
-      - 
-      - 
+      - "\u6E58\u7434 (A)"
+      - "\u54C0"
       - 
       - 
       - 
@@ -2476,8 +2636,8 @@ MonoBehaviour:
       debugIndex: 36
       strings:
       - 
-      - 
-      - 
+      - "\u76F4\u6A39 (B)"
+      - "\u6A02"
       - 
       - 
       - 
@@ -2491,8 +2651,8 @@ MonoBehaviour:
       debugIndex: 37
       strings:
       - 
-      - 
-      - 
+      - "\u6E58\u7434 (A)"
+      - "\u54C0"
       - 
       - 
       - 
@@ -2506,8 +2666,8 @@ MonoBehaviour:
       debugIndex: 38
       strings:
       - 
-      - 
-      - 
+      - "\u76F4\u6A39 (B)"
+      - "\u559C"
       - 
       - 
       - 
@@ -2521,8 +2681,8 @@ MonoBehaviour:
       debugIndex: 39
       strings:
       - 
-      - 
-      - 
+      - "\u6E58\u7434 (A)"
+      - "\u6A02"
       - 
       - 
       - 
@@ -2536,8 +2696,8 @@ MonoBehaviour:
       debugIndex: 40
       strings:
       - 
-      - 
-      - 
+      - "\u76F4\u6A39 (B)"
+      - "\u54C0"
       - 
       - 
       - 
@@ -2551,8 +2711,8 @@ MonoBehaviour:
       debugIndex: 41
       strings:
       - 
-      - 
-      - 
+      - "\u6E58\u7434 (A)"
+      - "\u6012"
       - 
       - 
       - 
@@ -2566,8 +2726,8 @@ MonoBehaviour:
       debugIndex: 42
       strings:
       - 
-      - 
-      - 
+      - "\u76F4\u6A39 (B)"
+      - "\u559C"
       - 
       - 
       - 
@@ -2581,8 +2741,8 @@ MonoBehaviour:
       debugIndex: 43
       strings:
       - 
-      - 
-      - 
+      - "\u6E58\u7434 (A)"
+      - "\u6A02"
       - 
       - 
       - 
@@ -2596,8 +2756,8 @@ MonoBehaviour:
       debugIndex: 44
       strings:
       - 
-      - 
-      - 
+      - "\u76F4\u6A39 (B)"
+      - "\u559C"
       - 
       - 
       - 
@@ -2611,8 +2771,8 @@ MonoBehaviour:
       debugIndex: 45
       strings:
       - 
-      - 
-      - 
+      - "\u6E58\u7434 (A)"
+      - "\u559C"
       - 
       - 
       - 
@@ -2626,8 +2786,8 @@ MonoBehaviour:
       debugIndex: 46
       strings:
       - 
-      - 
-      - 
+      - "\u76F4\u6A39 (B)"
+      - "\u54C0"
       - 
       - 
       - 
@@ -2641,8 +2801,8 @@ MonoBehaviour:
       debugIndex: 47
       strings:
       - 
-      - 
-      - 
+      - "\u6E58\u7434 (A)"
+      - "\u6A02"
       - 
       - 
       - 
@@ -2656,8 +2816,8 @@ MonoBehaviour:
       debugIndex: 48
       strings:
       - 
-      - 
-      - 
+      - "\u76F4\u6A39 (B)"
+      - "\u54C0"
       - 
       - 
       - 
@@ -2671,8 +2831,8 @@ MonoBehaviour:
       debugIndex: 49
       strings:
       - 
-      - 
-      - 
+      - "\u6E58\u7434 (A)"
+      - "\u6012"
       - 
       - 
       - 
@@ -2686,8 +2846,8 @@ MonoBehaviour:
       debugIndex: 50
       strings:
       - 
-      - 
-      - 
+      - "\u76F4\u6A39 (B)"
+      - "\u559C"
       - 
       - 
       - 
@@ -2701,8 +2861,8 @@ MonoBehaviour:
       debugIndex: 51
       strings:
       - 
-      - 
-      - 
+      - "\u6E58\u7434 (A)"
+      - "\u6A02"
       - 
       - 
       - 
@@ -2716,8 +2876,8 @@ MonoBehaviour:
       debugIndex: 52
       strings:
       - 
-      - 
-      - 
+      - "\u76F4\u6A39 (B)"
+      - "\u54C0"
       - 
       - 
       - 
@@ -2731,8 +2891,8 @@ MonoBehaviour:
       debugIndex: 53
       strings:
       - 
-      - 
-      - 
+      - "\u6E58\u7434 (A)"
+      - "\u559C"
       - 
       - 
       - 
@@ -2746,8 +2906,8 @@ MonoBehaviour:
       debugIndex: 54
       strings:
       - 
-      - 
-      - 
+      - "\u76F4\u6A39 (B)"
+      - "\u6012"
       - 
       - 
       - 
@@ -2761,8 +2921,8 @@ MonoBehaviour:
       debugIndex: 55
       strings:
       - 
-      - 
-      - 
+      - "\u6E58\u7434 (A)"
+      - "\u54C0"
       - 
       - 
       - 
@@ -2776,8 +2936,8 @@ MonoBehaviour:
       debugIndex: 56
       strings:
       - 
-      - 
-      - 
+      - "\u76F4\u6A39 (B)"
+      - "\u559C"
       - 
       - 
       - 
@@ -2791,8 +2951,8 @@ MonoBehaviour:
       debugIndex: 57
       strings:
       - 
-      - 
-      - 
+      - "\u6E58\u7434 (A)"
+      - "\u6A02"
       - 
       - 
       - 
@@ -2806,8 +2966,8 @@ MonoBehaviour:
       debugIndex: 58
       strings:
       - 
-      - 
-      - 
+      - "\u76F4\u6A39 (B)"
+      - "\u6012"
       - 
       - 
       - 
@@ -2821,8 +2981,8 @@ MonoBehaviour:
       debugIndex: 59
       strings:
       - 
-      - 
-      - 
+      - "\u6E58\u7434 (A)"
+      - "\u6012"
       - 
       - 
       - 
@@ -2836,8 +2996,8 @@ MonoBehaviour:
       debugIndex: 60
       strings:
       - 
-      - 
-      - 
+      - "\u76F4\u6A39 (B)"
+      - "\u6A02"
       - 
       - 
       - 
@@ -2851,8 +3011,8 @@ MonoBehaviour:
       debugIndex: 61
       strings:
       - 
-      - 
-      - 
+      - "\u6E58\u7434 (A)"
+      - "\u6012"
       - 
       - 
       - 
@@ -2866,8 +3026,8 @@ MonoBehaviour:
       debugIndex: 62
       strings:
       - 
-      - 
-      - 
+      - "\u76F4\u6A39 (B)"
+      - "\u559C"
       - 
       - 
       - 
@@ -2881,8 +3041,8 @@ MonoBehaviour:
       debugIndex: 63
       strings:
       - 
-      - 
-      - 
+      - "\u6E58\u7434 (A)"
+      - "\u6A02"
       - 
       - 
       - 
@@ -2896,8 +3056,8 @@ MonoBehaviour:
       debugIndex: 64
       strings:
       - 
-      - 
-      - 
+      - "\u76F4\u6A39 (B)"
+      - "\u54C0"
       - 
       - 
       - 
@@ -2911,8 +3071,8 @@ MonoBehaviour:
       debugIndex: 65
       strings:
       - 
-      - 
-      - 
+      - "\u6E58\u7434 (A)"
+      - "\u6012"
       - 
       - 
       - 
@@ -2926,8 +3086,8 @@ MonoBehaviour:
       debugIndex: 66
       strings:
       - 
-      - 
-      - 
+      - "\u6E58\u7434 (A)"
+      - "\u54C0"
       - 
       - 
       - 
@@ -2941,8 +3101,8 @@ MonoBehaviour:
       debugIndex: 67
       strings:
       - 
-      - 
-      - 
+      - "\u76F4\u6A39 (B)"
+      - "\u6012"
       - 
       - 
       - 
@@ -2956,8 +3116,8 @@ MonoBehaviour:
       debugIndex: 68
       strings:
       - 
-      - 
-      - 
+      - "\u6E58\u7434 (A)"
+      - "\u54C0"
       - 
       - 
       - 
@@ -2971,8 +3131,8 @@ MonoBehaviour:
       debugIndex: 69
       strings:
       - 
-      - 
-      - 
+      - "\u76F4\u6A39 (B)"
+      - "\u559C"
       - 
       - 
       - 
@@ -2986,8 +3146,8 @@ MonoBehaviour:
       debugIndex: 70
       strings:
       - 
-      - 
-      - 
+      - "\u6E58\u7434 (A)"
+      - "\u6A02"
       - 
       - 
       - 
@@ -3001,8 +3161,8 @@ MonoBehaviour:
       debugIndex: 71
       strings:
       - 
-      - 
-      - 
+      - "\u76F4\u6A39 (B)"
+      - "\u54C0"
       - 
       - 
       - 
@@ -3016,8 +3176,8 @@ MonoBehaviour:
       debugIndex: 72
       strings:
       - 
-      - 
-      - 
+      - "\u6E58\u7434 (A)"
+      - "\u559C"
       - 
       - 
       - 
@@ -3031,8 +3191,8 @@ MonoBehaviour:
       debugIndex: 73
       strings:
       - 
-      - 
-      - 
+      - "\u6E58\u7434 (A)"
+      - "\u54C0"
       - 
       - 
       - 
@@ -3046,8 +3206,8 @@ MonoBehaviour:
       debugIndex: 74
       strings:
       - 
-      - 
-      - 
+      - "\u76F4\u6A39 (B)"
+      - "\u559C"
       - 
       - 
       - 
@@ -3061,8 +3221,8 @@ MonoBehaviour:
       debugIndex: 75
       strings:
       - 
-      - 
-      - 
+      - "\u6E58\u7434 (A)"
+      - "\u6A02"
       - 
       - 
       - 
@@ -3076,8 +3236,8 @@ MonoBehaviour:
       debugIndex: 76
       strings:
       - 
-      - 
-      - 
+      - "\u76F4\u6A39 (B)"
+      - "\u6012"
       - 
       - 
       - 
@@ -3091,8 +3251,8 @@ MonoBehaviour:
       debugIndex: 77
       strings:
       - 
-      - 
-      - 
+      - "\u6E58\u7434 (A)"
+      - "\u54C0"
       - 
       - 
       - 
@@ -3106,8 +3266,8 @@ MonoBehaviour:
       debugIndex: 78
       strings:
       - 
-      - 
-      - 
+      - "\u76F4\u6A39 (B)"
+      - "\u559C"
       - 
       - 
       - 
@@ -3121,8 +3281,8 @@ MonoBehaviour:
       debugIndex: 79
       strings:
       - 
-      - 
-      - 
+      - "\u6E58\u7434 (A)"
+      - "\u6A02"
       - 
       - 
       - 
@@ -3136,8 +3296,8 @@ MonoBehaviour:
       debugIndex: 80
       strings:
       - 
-      - 
-      - 
+      - "\u76F4\u6A39 (B)"
+      - "\u6012"
       - 
       - 
       - 
@@ -3151,8 +3311,8 @@ MonoBehaviour:
       debugIndex: 81
       strings:
       - 
-      - 
-      - 
+      - "\u6E58\u7434 (A)"
+      - "\u6A02"
       - 
       - 
       - 
@@ -3166,8 +3326,8 @@ MonoBehaviour:
       debugIndex: 82
       strings:
       - 
-      - 
-      - 
+      - "\u76F4\u6A39 (B)"
+      - "\u54C0"
       - 
       - 
       - 
@@ -3181,8 +3341,8 @@ MonoBehaviour:
       debugIndex: 83
       strings:
       - 
-      - 
-      - 
+      - "\u6E58\u7434 (A)"
+      - "\u559C"
       - 
       - 
       - 
@@ -3196,8 +3356,8 @@ MonoBehaviour:
       debugIndex: 84
       strings:
       - 
-      - 
-      - 
+      - "\u76F4\u6A39 (B)"
+      - "\u6A02"
       - 
       - 
       - 
@@ -3211,8 +3371,8 @@ MonoBehaviour:
       debugIndex: 85
       strings:
       - 
-      - 
-      - 
+      - "\u6E58\u7434 (A)"
+      - "\u6012"
       - 
       - 
       - 
@@ -3226,8 +3386,8 @@ MonoBehaviour:
       debugIndex: 86
       strings:
       - 
-      - 
-      - 
+      - "\u76F4\u6A39 (B)"
+      - "\u559C"
       - 
       - 
       - 
@@ -3241,8 +3401,8 @@ MonoBehaviour:
       debugIndex: 87
       strings:
       - 
-      - 
-      - 
+      - "\u6E58\u7434 (A)"
+      - "\u6012"
       - 
       - 
       - 
@@ -3256,8 +3416,8 @@ MonoBehaviour:
       debugIndex: 88
       strings:
       - 
-      - 
-      - 
+      - "\u76F4\u6A39 (B)"
+      - "\u6A02"
       - 
       - 
       - 
@@ -3271,8 +3431,8 @@ MonoBehaviour:
       debugIndex: 89
       strings:
       - 
-      - 
-      - 
+      - "\u6E58\u7434 (A)"
+      - "\u559C"
       - 
       - 
       - 
@@ -3286,8 +3446,8 @@ MonoBehaviour:
       debugIndex: 90
       strings:
       - 
-      - 
-      - 
+      - "\u76F4\u6A39 (B)"
+      - "\u6012"
       - 
       - 
       - 
@@ -3301,8 +3461,8 @@ MonoBehaviour:
       debugIndex: 91
       strings:
       - 
-      - 
-      - 
+      - "\u6E58\u7434 (A)"
+      - "\u6A02"
       - 
       - 
       - 
@@ -3316,8 +3476,8 @@ MonoBehaviour:
       debugIndex: 92
       strings:
       - 
-      - 
-      - 
+      - "\u76F4\u6A39 (B)"
+      - "\u54C0"
       - 
       - 
       - 
@@ -3331,8 +3491,8 @@ MonoBehaviour:
       debugIndex: 93
       strings:
       - 
-      - 
-      - 
+      - "\u6E58\u7434 (A)"
+      - "\u6012"
       - 
       - 
       - 
@@ -3346,8 +3506,8 @@ MonoBehaviour:
       debugIndex: 94
       strings:
       - 
-      - 
-      - 
+      - "\u76F4\u6A39 (B)"
+      - "\u54C0"
       - 
       - 
       - 
@@ -3361,8 +3521,8 @@ MonoBehaviour:
       debugIndex: 95
       strings:
       - 
-      - 
-      - 
+      - "\u6E58\u7434 (A)"
+      - "\u6012"
       - 
       - 
       - 
@@ -3376,8 +3536,8 @@ MonoBehaviour:
       debugIndex: 96
       strings:
       - 
-      - 
-      - 
+      - "\u76F4\u6A39 (B)"
+      - "\u6A02"
       - 
       - 
       - 
@@ -3391,8 +3551,8 @@ MonoBehaviour:
       debugIndex: 97
       strings:
       - 
-      - 
-      - 
+      - "\u6E58\u7434 (A)"
+      - "\u559C"
       - 
       - 
       - 
@@ -3406,8 +3566,8 @@ MonoBehaviour:
       debugIndex: 98
       strings:
       - 
-      - 
-      - 
+      - "\u76F4\u6A39 (B)"
+      - "\u559C"
       - 
       - 
       - 
@@ -3421,8 +3581,8 @@ MonoBehaviour:
       debugIndex: 99
       strings:
       - 
-      - 
-      - 
+      - "\u6E58\u7434 (A)"
+      - "\u6A02"
       - 
       - 
       - 
@@ -3436,8 +3596,8 @@ MonoBehaviour:
       debugIndex: 100
       strings:
       - 
-      - 
-      - 
+      - "\u76F4\u6A39 (B)"
+      - "\u559C"
       - 
       - 
       - 
@@ -3456,6 +3616,6 @@ MonoBehaviour:
       debugInfo: 
     name: Assets/61132101/Scenarios/61132101.xls:Start
     type: 1
-    textLength: 1491
+    textLength: 2191
     headerRow: 0
     sourceAssetInEditor: {fileID: 102900000, guid: 8caee4600b3dec5468c444cc5f202e50, type: 3}
