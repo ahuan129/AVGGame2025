@@ -232,9 +232,54 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
+    - rowIndex: 1
+      debugIndex: 1
+      strings:
+      - "\u6559\u5BA4"
+      - Bg
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - back01.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 2
+      debugIndex: 2
+      strings:
+      - "\u64CD\u5834"
+      - Bg
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - back02.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 3
+      debugIndex: 3
+      strings:
+      - "\u9910\u5EF3"
+      - Bg
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - back03.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
     name: Assets/61132101/Scenarios/61132101.xls:Texture
     type: 1
-    textLength: 112
+    textLength: 154
     headerRow: 0
     sourceAssetInEditor: {fileID: 102900000, guid: 8caee4600b3dec5468c444cc5f202e50, type: 3}
   - rows:
@@ -275,9 +320,42 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
+    - rowIndex: 1
+      debugIndex: 1
+      strings:
+      - "\u4E2D"
+      - Character
+      - 0
+      - 0
+      - 200
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 2
+      debugIndex: 2
+      strings:
+      - "\u5DE6"
+      - Character
+      - -450
+      - 0
+      - 190
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 3
+      debugIndex: 3
+      strings:
+      - "\u53F3"
+      - Character
+      - 450
+      - 0
+      - 190
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
     name: Assets/61132101/Scenarios/61132101.xls:Layer
     type: 1
-    textLength: 109
+    textLength: 159
     headerRow: 0
     sourceAssetInEditor: {fileID: 102900000, guid: 8caee4600b3dec5468c444cc5f202e50, type: 3}
   - rows:
